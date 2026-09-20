@@ -71,3 +71,20 @@ Conceptually:
     HDFS -> Map -> Shuffle/Sort -> Reduce -> HDFS
 
 After this works, the same idea can be moved to Hadoop/HDFS.
+
+
+# all the command prompt via powershell that was used personally in this project 
+Get-Content input\data.txt | python3.14  mapper.py
+Get-Content input\data.txt | python3.14.exe mapper.py | Sort-Object                     
+Get-Content input\data.txt | python3.14.exe mapper.py | Sort-Object | python3.14.exe reducer.py
+Get-Content \input\data.txt | python3.14 mapper.py | Sort-Object | python3.14 reducer.py | Out-File output\result.txt -Encoding utf8         
+get-content output\result.txt
+
+
+<!-- 
+& berguna bila executable berasal dari variabel atau path perlu diberi tanda kutip, misalnya:
+$python = "C:\Users\lenovo\.local\bin\python3.14.exe"
+Get-Content input\data.txt | & $python mapper.py | Sort-Object
+atau bila path mengandung spasi:
+& "C:\Program Files\Python\python.exe" mapper.py
+Jadi untuk kasusmu: boleh tanpa &; tidak ada perbedaan output maupun keamanan. -->
