@@ -1,0 +1,10 @@
+Hadoop is a big data framework.
+Hadoop can process big data.
+MapReduce is used to process data.
+Big data requires distributed processing.
+Hadoop and MapReduce are important technologies.
+Distributed systems can process large datasets.
+Hadoop stores data across multiple machines.
+MapReduce processes data in parallel.
+Big data applications need efficient processing.
+Hadoop and MapReduce are core big data technologies.
