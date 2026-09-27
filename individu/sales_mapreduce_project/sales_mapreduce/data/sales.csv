@@ -1,0 +1,11 @@
+transaction_id,date,city,category,amount
+T001,2026-09-01,Seoul,Food,15000
+T002,2026-09-01,Seoul,Transport,5000
+T003,2026-09-01,Busan,Food,12000
+T004,2026-09-02,Seoul,Electronics,85000
+T005,2026-09-02,Busan,Transport,4000
+T006,2026-09-02,Incheon,Food,18000
+T007,2026-09-03,Seoul,Food,22000
+T008,2026-09-03,Busan,Electronics,65000
+T009,2026-09-03,Incheon,Transport,3500
+T010,2026-09-04,Seoul,Food,17000

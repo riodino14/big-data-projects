@@ -1,0 +1,10 @@
+Food	15000
+Transport	5000
+Food	12000
+Electronics	85000
+Transport	4000
+Food	18000
+Food	22000
+Electronics	65000
+Transport	3500
+Food	17000

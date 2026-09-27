@@ -1,0 +1,3 @@
+Busan	81000
+Incheon	21500
+Seoul	144000

@@ -1,0 +1,3 @@
+Busan	3
+Incheon	2
+Seoul	5

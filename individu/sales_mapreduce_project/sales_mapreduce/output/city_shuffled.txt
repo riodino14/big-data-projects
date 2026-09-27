@@ -1,0 +1,10 @@
+Busan	12000
+Busan	4000
+Busan	65000
+Incheon	18000
+Incheon	3500
+Seoul	15000
+Seoul	17000
+Seoul	22000
+Seoul	5000
+Seoul	85000

@@ -1,0 +1,3 @@
+Electronics	150000
+Food	84000
+Transport	12500
